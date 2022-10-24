@@ -3,7 +3,7 @@ The link to the dashboards and visualizations on Tableau Public is:
 https://public.tableau.com/app/profile/selina.su/viz/CitiBike_16664068532550/Mostpopularstationsinfo?publish=yes
 
 In this project I bulit dashboards and other visualizations using Tableau on data from the Citi Bike of New York City.
-Tools
+###Tools
 These are the tools, techniques, and resources used in this project.
 
 *Tableau is used for creating dashboards and other auxillary visuals
