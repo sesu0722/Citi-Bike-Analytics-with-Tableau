@@ -22,3 +22,4 @@ Consider there are over 20+ million records of data, I have clean and sort the d
 * Top10 Stating/Ending Stations 202109 vs. 202209: There are obvious increases of bike usage from 202109 to 202209 for the top 10 popular satations.![top10starting](https://github.com/sesu0722/Citi-Bike-Analytics-with-Tableau/blob/main/Images/top10starting21vs22.png)
   ![top10ending](https://github.com/sesu0722/Citi-Bike-Analytics-with-Tableau/blob/main/Images/top10ending21vs22.png)
 * Dashboard for top 10 popular stations 202109 vs. 202209:![top10](https://github.com/sesu0722/Citi-Bike-Analytics-with-Tableau/blob/main/Images/dashboard_mostpopular21vs22.png)
+* Changes of casual customers vs. members:![customersvsmembers](https://github.com/sesu0722/Citi-Bike-Analytics-with-Tableau/blob/main/Images/member_vs_customer_21vs22.png)
