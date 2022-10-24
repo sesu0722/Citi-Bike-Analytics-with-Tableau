@@ -17,6 +17,7 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 Consider there are over 20+ million records of data, I have clean and sort the data for my visualizations using data during 9/27-9/30 in 2021 and 2022 for comparasion and 9/24-9/30 in 2022 for weekly usage analysis between members and casual customers nowadays. 
 
 ## Viaualizations
-* City Official Map: https://github.com/sesu0722/Citi-Bike-Analytics-with-Tableau/blob/main/Images/cityofficial.png
-* Top10 Stating/Ending Stations 202109 vs. 202209: https://github.com/sesu0722/Citi-Bike-Analytics-with-Tableau/blob/main/Images/top10starting21vs22.png
-  https://github.com/sesu0722/Citi-Bike-Analytics-with-Tableau/blob/main/Images/top10ending21vs22.png
+* City Official Map:![cityofficial](https://user-images.githubusercontent.com/105521221/197627215-951f9354-4d62-4fdc-92b6-0e862ae402c2.png)
+
+* Top10 Stating/Ending Stations 202109 vs. 202209: ![top10starting](https://github.com/sesu0722/Citi-Bike-Analytics-with-Tableau/blob/main/Images/top10starting21vs22.png)
+  ![top10ending](https://github.com/sesu0722/Citi-Bike-Analytics-with-Tableau/blob/main/Images/top10ending21vs22.png)
