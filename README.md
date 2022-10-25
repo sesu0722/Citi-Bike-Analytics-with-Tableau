@@ -31,4 +31,9 @@ Consider there are over 20+ million records of data, I have clean and sort the d
   * 4) Most popular (20) stations information map: This map provides the info of customer and member usage and average trip duration for most popular stations.
 ![usertype comparison](https://github.com/sesu0722/Citi-Bike-Analytics-with-Tableau/blob/main/Images/dashboard_member_vs_customer.png)
 
+* Story: Growing Members!
+  * Members are growing from 202109 to 202209 and they are the major user of Citi bikes.
+  * Base on the peak hour and average trip durations, members are using the bike for their daily commute to work, and the casual customers are most likely using the bike to get to popular touriest spots hence teir average trip durations are about the same form 202109 to 202209
+  * It's not suprise to see the most popular stations are all in Manhattan because it's where most businesses and tourist spots are.
 
+ ![story](https://github.com/sesu0722/Citi-Bike-Analytics-with-Tableau/blob/main/Images/story.png)
