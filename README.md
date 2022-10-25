@@ -28,8 +28,7 @@ Consider there are over 20+ million records of data, I have clean and sort the d
   * 1) Changes of casual customers vs. members: Number of records for casual customers decrease slightly but members increase a lot! 
   * 2) Average trip duration comparison 2021 vs 2022: Members' average trip duration slightly decrease from 14.30 to 12.56 but casual customers' are about the same. 
   * 3) Members are using Citi Bikes to commute because the peak hours are 8am and 5-6pm on weekdays.
+  * 4) Most popular (20) stations information map: This map provides the info of customer and member usage and average trip duration for most popular stations.
 ![usertype comparison](https://github.com/sesu0722/Citi-Bike-Analytics-with-Tableau/blob/main/Images/dashboard_member_vs_customer.png)
 
-* Most popular (20) stations information map: This map provides the info of customer and member usage and average trip duration for most popular stations.  
-  ![stationmap](https://github.com/sesu0722/Citi-Bike-Analytics-with-Tableau/blob/main/Images/mostpopularmap.png)
 
